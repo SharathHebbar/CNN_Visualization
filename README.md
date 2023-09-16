@@ -1,7 +1,8 @@
 # CNN Layers Visualization using Pytorch
 
-Original Image
+## Original Image
+
 ![Cat](cat.jpg)
 
-Layer Visualization of original image
+## Layer Visualization of original image
 ![CNN_Viz](feature_maps.jpg)
